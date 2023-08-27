@@ -1,0 +1,52 @@
+.d1{
+	height:400px;
+	width: 800px;
+	background-color: whitesmoke ;
+	margin-left: 100px;
+	margin-top: 100px;
+	padding: 30px 30px 30px 30px;
+
+}
+.d2{
+	height:340px ;
+	width: 740px;
+	background-color: ghostwhite;
+}
+.d3{
+	height: 340px;
+	width: 240px;
+	background-color: lightpink;
+	float: left;
+	border-radius: 20px;
+	margin-right: 10px;
+}
+.d4{
+	height: 340px;
+	width: 246px;
+	background-color: lightgray;
+	float: left;
+	border-radius: 20px;
+}
+.d5{
+	height: 340px;
+	width: 246px;
+	background-color: lightblue;
+	float: right;
+	border-radius: 20px;
+}
+ .il{
+ 	color: blue;
+ }
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+button
+{
+	color: white;
+	background-color: blue;
+	border-radius: 40px;
+	padding: 5px;
+
+}
